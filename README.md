@@ -1,8 +1,26 @@
-# Connect4-v1-game
+# 🎮 Connect4 Game (Java + Swing)
 
-This is the first version of Connect4 game, which runs in terminal itself.
+A 2D implementation of the classic **Connect 4** game in Java using **Swing** for the graphical user interface.  
+Players take turns dropping colored discs into a 6x6 grid. The first player to connect four discs vertically, horizontally, or diagonally wins the game.
 
-Check Connect4-v2: For Object oriented approach
-Check Connect4-v3: for GUI implementation to the game
+---
 
-Thank you for your time!
+## 🧠 Features
+- Graphical user interface built with **Java Swing**.
+- Turn-based gameplay for two players.
+- Real-time win detection (vertical, horizontal, and diagonal).
+- Interactive and responsive UI for smooth user experience.
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Java
+- **GUI Framework:** Swing
+- **IDE:** Any Java IDE (like Eclipse)
+
+---
+
+## ▶️ How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/arthsaAr/Connect4-v1-game/
